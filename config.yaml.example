@@ -1,0 +1,15 @@
+
+poll_interval: 60
+lasttime_file: 'last_time'
+
+telegram:
+    bot_token: **TOKEN OF TELEGRAM BOT**
+    chat_id: **ID OF TELEGRAM CHANNEL**
+
+plex:
+    url: **BASE PWS URL**
+    token: **PWS TOKEN**
+    movie_libs:
+      - Names of libraries with movies
+    episode_libs:
+      - Names of libraries with tv episodes
